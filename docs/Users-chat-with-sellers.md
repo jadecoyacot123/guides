@@ -18,7 +18,7 @@ In order to advertise directly on Whatsapp, Skype or Telegram you need to create
 
 Now users need to enter their  **Phone Number they are using on Whatsapp**.
 
-![](https://raw.githubusercontent.com/yclas/guides/master/images/whatsapp.png)
+![](https://raw.githubusercontent.com/yclas/guides/master/images/whatsapp.png) : Picture should be  for new panel here
 
 **Remember!**  It’s important to enter  **whatsapp**  in the name field while creating the custom field!
 
