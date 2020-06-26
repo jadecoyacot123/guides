@@ -8,7 +8,8 @@ With our open source classifieds script you could do that easily! Let’s do an 
 2.  Go to  **Users**  >  **Roles**
 3.  Create a  **New Role**  and press  **Submit**
 
-![](https://raw.githubusercontent.com/yclas/guides/master/images/newrole.png)
+![](https://raw.githubusercontent.com/yclas/guides/master/images/newrole.png)  : Picture should be  for new panel here
+
   
 4.  **Edit**  the newly created role  
 5. You will find a long list of  **privileges**, pick the ones you need to give access to and press  **Update**  Have the person helping you can  **create a new user**  or you can create one for him.
@@ -18,7 +19,8 @@ With our open source classifieds script you could do that easily! Let’s do an 
 9.  Done!  
       
     
-![](https://raw.githubusercontent.com/yclas/guides/master/images/newrole1.png)
+![](https://raw.githubusercontent.com/yclas/guides/master/images/newrole1.png) : Picture should be  for new panel here
+
 
 Normal  **user**  has access to:
 
