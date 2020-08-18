@@ -17,6 +17,8 @@ You can access these options by logging into your admin panel and going to  **Se
 -   **Banned words:**  You need to write your banned words separated with coma (,) to enable the service.
 -   **Validate banned words:**  Enables banned words validation. When users enter banned words, they get a warning message in order to replace these words.
 -   **Banned words replacement:**  Banned word replacement replaces selected array with the string you provided. (For example “xxx”)
+-   **Require login to contact:**  This requires the user to login even when browsing the ads listing.
+
 
   
 **Related posts:**
